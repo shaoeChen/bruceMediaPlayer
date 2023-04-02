@@ -142,3 +142,5 @@ cython_debug/
 *.mp3
 ee.py
 gg.py
+/app.dist/
+/app.build/
